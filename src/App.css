@@ -20,3 +20,8 @@
 .Weather li {
   list-style-type: none;
 }
+
+.Footer a {
+  color: rgb(176, 75, 92);
+  text-decoration: none;
+}
